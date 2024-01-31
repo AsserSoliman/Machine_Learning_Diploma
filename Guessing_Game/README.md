@@ -24,7 +24,7 @@ cd Machine_Learning_Diploma/Guessing_Game
 
 3.Run the game script.
 ```bash
-python guessing_game.py
+python main.py
 ```
 
 4.Follow the on-screen instructions to play the game.
